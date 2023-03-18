@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "Contact": [
+        {
+          "id": "",
+          "name": "Sales Team",
+          "email": [
+            "salesteam@br.in",
+            "salesteam2@br.in"
+          ],
+          "phone": [
+            "+91 9511591740",
+            "8000058214"
+          ]
+        },
+        {
+          "name": "Marketing Team",
+          "email": [
+            "salesteam@br.in",
+            "salesteam2@br.in"
+          ],
+          "phone": [
+            "+91 9511591740",
+            "8000058214"
+          ]
+        },
+        {
+          "name": "Marketing Team",
+          "email": [
+            "salesteam@br.in",
+            "salesteam2@br.in"
+          ],
+          "phone": [
+            "+91 9511591740",
+            "8000058214"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "Address": "C-1 / 351 /4 GIDC Makarpura, Vadodara 3910010"
+    },
+    {
+      "id": "3",
+      "House of Operations": "Monday To Friday - 09:00 Am To 06:00 Pm"
+    },
+    {
+      "id": "4",
+      "Social": [
+        "mdiWeb",
+        "mdiInstagram",
+        "mdiFacebook",
+        "mdiTwitter"
+      ]
+    },
+    {
+      "id": "5",
+      "Statement": "You think it we ink it."
+    },
+    {
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "id": "6"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
